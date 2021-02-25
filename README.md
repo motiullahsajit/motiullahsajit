@@ -54,13 +54,13 @@
 
 
 [programming]: https://www.programming-hero.com/
-[website]: 
-[twitter]: 
+[website]: https://www.facebook.com/Sajit01/
+[twitter]: https://www.facebook.com/Sajit01/
 [linkedin]: https://www.linkedin.com/in/motiullah-sajit-9668a01ba/
-[webdevplaylist]: 
-[jsplaylist]: 
-[cssplaylist]: 
-[reactplaylist]: 
+[webdevplaylist]: https://www.facebook.com/Sajit01/
+[jsplaylist]: https://www.facebook.com/Sajit01/
+[cssplaylist]: https://www.facebook.com/Sajit01/
+[reactplaylist]: https://www.facebook.com/Sajit01/
 [instagram]: https://www.instagram.com/motiullah_sajit/
 [Facebook]: https://www.facebook.com/Sajit01/
 [Medium]: https://motiullahsajt.medium.com/
