@@ -3,7 +3,7 @@
 ---
 
 ## In love with JavaScript ❤ !!
-- 🔭 I’m currently working on [Front-end-developer][website].
+- 🔭 I’m currently working on [Front-end-development][website].
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: JavaScript, React.js, TypeScript
 - 💬 Ask me about JavaScript or any Front-end related stuff 
