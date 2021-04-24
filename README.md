@@ -2,7 +2,7 @@
 
 ---
 
-## love JavaScript ❤
+## JavaScript ❤
 - 🔭 I’m currently working on [Front-end-development][website].
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: JavaScript, React.js, TypeScript
@@ -56,7 +56,7 @@
 [programming]: https://www.programming-hero.com/
 [website]: https://www.facebook.com/Sajit01/
 [twitter]: https://www.facebook.com/Sajit01/
-[linkedin]: https://www.linkedin.com/in/motiullah-sajit-9668a01ba/
+[linkedin]: https://www.linkedin.com/in/motiullah-sajit/
 [webdevplaylist]: https://www.facebook.com/Sajit01/
 [jsplaylist]: https://www.facebook.com/Sajit01/
 [cssplaylist]: https://www.facebook.com/Sajit01/
