@@ -2,13 +2,13 @@
 
 ---
 
-## JavaScript ❤
+## ON JavaScript ❤
 - 🔭 I’m currently working on [Front-end-development][website].
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: JavaScript, React.js, TypeScript
 - 💬 Ask me about JavaScript or any Front-end related stuff 
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I love to Explore the world
+- ⚡ Fun fact: My life is about code eat sleep repeat
 
 ### Connect with me:
 <br />
