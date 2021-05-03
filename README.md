@@ -43,7 +43,7 @@
 ---
 <br />
 
-<img width="550px" alt="Shahinur Alam Bhuiyan Github Stats"  src="https://github-readme-stats.vercel.app/api?username=motiullahsajit&show_icons=true&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff&bg_color=191919"/>
+<img width="550px" alt="Motiullah Sajit Github Stats"  src="https://github-readme-stats.vercel.app/api?username=motiullahsajit&show_icons=true&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff&bg_color=191919"/>
 
 ---
 <br />
