@@ -4,7 +4,7 @@
 
 ## ON JavaScript ❤
 - 🔭 I’m currently working on [Front-end-development](https://motiullah-sajit.web.app/).
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 
 - 🥅 2021 Goals: React.js, React-native
 - 💬 Ask me about JavaScript or any Front-end related stuff 
 - 😄 Pronouns: He/His
