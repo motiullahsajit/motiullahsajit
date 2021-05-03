@@ -1,11 +1,11 @@
-### Hi there, I'm  [Motiullah Sajit][website] 👋
+### Hi there, I'm  [Motiullah Sajit][https://motiullah-sajit.web.app/] 👋
 
 ---
 
 ## ON JavaScript ❤
-- 🔭 I’m currently working on [Front-end-development][website].
+- 🔭 I’m currently working on [Front-end-development][https://motiullah-sajit.web.app/].
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: JavaScript, React.js, TypeScript
+- 🥅 2021 Goals: React.js, React-native
 - 💬 Ask me about JavaScript or any Front-end related stuff 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: My life is about code eat sleep repeat
