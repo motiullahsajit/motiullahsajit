@@ -54,14 +54,8 @@
 
 
 [programming]: https://www.programming-hero.com/
-[website]: https://www.facebook.com/Sajit01/
-[twitter]: https://www.facebook.com/Sajit01/
+[website]: https://motiullah-sajit.web.app/
 [linkedin]: https://www.linkedin.com/in/motiullah-sajit/
-[webdevplaylist]: https://www.facebook.com/Sajit01/
-[jsplaylist]: https://www.facebook.com/Sajit01/
-[cssplaylist]: https://www.facebook.com/Sajit01/
-[reactplaylist]: https://www.facebook.com/Sajit01/
-[instagram]: https://www.instagram.com/motiullah_sajit/
 [Facebook]: https://www.facebook.com/Sajit01/
 [Medium]: https://motiullahsajt.medium.com/
 
