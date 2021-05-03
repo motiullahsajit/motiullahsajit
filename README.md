@@ -1,22 +1,20 @@
-### Hi there, I'm  [Motiullah Sajit][(https://motiullah-sajit.web.app/)] 👋
+### Hi there, I'm  [Motiullah Sajit](https://motiullah-sajit.web.app/) 👋
 
 ---
 
 ## I'm a 😍😍 JavaScript Lover 😍😍!
-- 🔭 I’m currently working on [Front-end development][website].
+- 🔭 I’m currently working on [Front-end development](https://motiullah-sajit.web.app/).
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: JavaScript, React.js, TypeScript
 - 💬 Ask me about JavaScript or any Front-end related stuff 
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I love to Explore the world
+- ⚡ My life: code eat sleep repeat
 
 ### Connect with me:
 <br />
 
-[<img align="left" alt="shahin.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="https://motiullah-sajit.web.app/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Facebook | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]
 [<img align="left" alt="Medium | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][Medium]
 
@@ -45,22 +43,19 @@
 ---
 <br />
 
-<img width="550px" alt="Shahinur Alam Bhuiyan Github Stats"  src="https://github-readme-stats.vercel.app/api?username=ShahinurAlamBhuiyan&show_icons=true&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff&bg_color=191919"/>
+<img width="550px" alt="Shahinur Alam Bhuiyan Github Stats"  src="https://github-readme-stats.vercel.app/api?username=motiullahsajit&show_icons=true&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff&bg_color=191919"/>
 
 ---
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahinurAlamBhuiyan&card_width=500&title_color=00BFFF&text_color=ffffff&bg_color=191919)](https://github.com/ShahinurAlamBhuiyan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=motiullahsajit&card_width=500&title_color=00BFFF&text_color=ffffff&bg_color=191919)](https://github.com/motiullahsajit)
 
 
-[programming]: https://www.programming-hero.com/
-[website]: https://www.facebook.com/shahin19sep/
-[twitter]: https://www.facebook.com/shahin19sep/
-[linkedin]: https://www.facebook.com/shahin19sep/
-[webdevplaylist]: https://www.facebook.com/shahin19sep/
-[jsplaylist]: https://www.facebook.com/shahin19sep/
-[cssplaylist]:https://www.facebook.com/shahin19sep/
-[reactplaylist]: https://www.facebook.com/shahin19sep/
-[instagram]: https://www.instagram.com/_shahin__bhuiyan_/
-[Facebook]: https://www.facebook.com/shahin19sep/
-[Medium]: https://www.facebook.com/shahin19sep/
+[website]: https://motiullah-sajit.web.app/
+[linkedin]: https://www.linkedin.com/in/motiullah-sajit/
+[webdevplaylist]: https://motiullahsajit.medium.com/
+[jsplaylist]: https://motiullahsajit.medium.com/
+[cssplaylist]:https://motiullahsajit.medium.com/
+[reactplaylist]: https://motiullahsajit.medium.com/
+[Facebook]: https://www.facebook.com/Sajit01/
+[Medium]: https://motiullahsajit.medium.com/
