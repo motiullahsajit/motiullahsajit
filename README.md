@@ -2,9 +2,9 @@
 
 ---
 
-## I'm a 😍😍 JavaScript Lover 😍😍!
+## On JavaScript
 - 🔭 I’m currently working on [Front-end development](https://motiullah-sajit.web.app/).
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 😄
 - 🥅 2021 Goals: JavaScript, React.js, TypeScript
 - 💬 Ask me about JavaScript or any Front-end related stuff 
 - 😄 Pronouns: He/His
