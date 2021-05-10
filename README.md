@@ -2,7 +2,7 @@
 
 ---
 
-## On JavaScript
+## JavaScript <3
 - 🔭 I’m currently working on [Front-end development](https://motiullah-sajit.web.app/).
 - 🌱 I’m currently learning everything 😄
 - 🥅 2021 Goals: JavaScript, React.js, TypeScript
