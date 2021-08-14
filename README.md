@@ -3,10 +3,10 @@
 ---
 
 ## JavaScript <3
-- 🔭 I’m currently working on [Front-end development](https://motiullah-sajit.web.app/).
+- 🔭 I’m currently working on [MERN](https://motiullah-sajit.web.app/).
 - 🌱 I’m currently learning everything 😄
 - 🥅 2021 Goals: JavaScript, React.js, React-native
-- 💬 Ask me about JavaScript or any Front-end related stuff 
+- 💬 Ask me about JavaScript or any MERN related stuff 
 - 😄 Pronouns: He/His
 - ⚡ My life: code eat sleep repeat
 
