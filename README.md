@@ -1,61 +1,52 @@
-### Hi there, I'm  [Motiullah Sajit](https://motiullah-sajit.web.app/) 👋
+# Hi there, I'm Motiullah Sajit! 👋
 
----
+Welcome to my GitHub profile! I'm a passionate developer with a focus on **modern web technologies**. My journey in tech started in 2021, and I've been crafting amazing projects ever since. 
 
-## JavaScript <3
-- 🔭 I’m currently working on [MERN](https://motiullah-sajit.web.app/).
-- 🌱 I’m currently learning everything 😄
-- 🥅 2021 Goals: JavaScript, React.js, React-native
-- 💬 Ask me about JavaScript or any MERN related stuff 
-- 😄 Pronouns: He/His
-- ⚡ My life: code eat sleep repeat
+## 🌟 About Me
 
-### Connect with me:
-<br />
+- 🎓 3rd year student at Daffodil International University, majoring in **AI in IoT**
+- 🌍 Aspiring to build a career in **AI and IoT**
+- 💼 Experienced in both **frontend** and **backend** development
+- 🎯 Focused on creating **responsive** and **attractive** 
+- 🚴‍♂️ When I'm not coding, you might find me enjoying my hobby of cycling
 
-[<img align="left" alt="https://motiullah-sajit.web.app/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Facebook | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]
-[<img align="left" alt="Medium | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][Medium]
+## 🛠️ Skills
 
-<br />
+**Languages:**
+- TypeScript, JavaScript, C, C++, Java
 
----
+**Frameworks & Libraries:**
+- Next.js, React.js, React Native, Redux, Tailwind, shadcn/ui, Node.js, Express.js
 
-### Languages and Tools:
+**Databases:**
+- MongoDB, MySql
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+**Tools & Platforms:**
+- Git, GitHub, Docker, Adobe XD, Figma
 
-<br />
+## 🔗 Let's Connect
 
-<br />
+- 🌐 [Website](https://motiullah-sajit.web.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/motiullah-sajit/)
+- 🛠️ [Upwork](https://www.upwork.com/freelancers/~01f38a315bc53adc2b)
 
----
-<br />
+## 📈 GitHub Stats
 
-<img width="550px" alt="Motiullah Sajit Github Stats"  src="https://github-readme-stats.vercel.app/api?username=motiullahsajit&show_icons=true&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff&bg_color=191919"/>
+![Motiullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=motiullahsajit&show_icons=true&theme=radical&count_private=true)
 
----
-<br />
+## 🔥 Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=motiullahsajit&card_width=500&title_color=00BFFF&text_color=ffffff&bg_color=191919)](https://github.com/motiullahsajit)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=motiullahsajit&layout=compact&theme=radical)
+
+## 🖋️ Recent Projects
+
+Here are a few of the exciting projects I've worked on:
+
+- **Swift Cart** - A full-featured e-commerce platform for electronic gadgets. [Learn more](https://github.com/motiullahsajit/Swift-Cart)
+- **Digital Marketplace** - A marketplace for high-quality digital products. [Learn more](https://github.com/motiullahsajit/digital)
+
+## 🚀 Let's Build Something Amazing Together
+
+I'm always open to new opportunities and collaborations. If you have a project in mind or just want to chat about tech, feel free to reach out!
 
 
-[website]: https://motiullah-sajit.web.app/
-[linkedin]: https://www.linkedin.com/in/motiullah-sajit/
-[webdevplaylist]: https://motiullahsajit.medium.com/
-[jsplaylist]: https://motiullahsajit.medium.com/
-[cssplaylist]:https://motiullahsajit.medium.com/
-[reactplaylist]: https://motiullahsajit.medium.com/
-[Facebook]: https://www.facebook.com/Sajit01/
-[Medium]: https://motiullahsajit.medium.com/
